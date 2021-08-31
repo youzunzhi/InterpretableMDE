@@ -1,0 +1,1 @@
+from .mff_model import Model as MFF_Model
