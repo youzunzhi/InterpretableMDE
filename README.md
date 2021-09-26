@@ -53,10 +53,10 @@ The model part of our code is adapted from [Revisiting_Single_Depth_Estimation](
 
 ```
 @article{you2021interpretable,
-	title			= {Towards Interpretable Deep Networks for Monocular Depth Estimation}, 
-  author		= {Zunzhi You and Yi-Hsuan Tsai and Wei-Chen Chiu and Guanbin Li},
-  journal 	= {arXiv preprint arXiv:2108.05312},
-  year			= {2021},
+	title		= {Towards Interpretable Deep Networks for Monocular Depth Estimation}, 
+  	author		= {Zunzhi You and Yi-Hsuan Tsai and Wei-Chen Chiu and Guanbin Li},
+  	journal 	= {arXiv preprint arXiv:2108.05312},
+  	year		= {2021},
 }
 ```
 
