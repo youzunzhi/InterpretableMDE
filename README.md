@@ -52,11 +52,11 @@ The model part of our code is adapted from [Revisiting_Single_Depth_Estimation](
 ## Bibtex
 
 ```
-@article{you2021interpretable,
-	title		= {Towards Interpretable Deep Networks for Monocular Depth Estimation}, 
-  	author		= {Zunzhi You and Yi-Hsuan Tsai and Wei-Chen Chiu and Guanbin Li},
-  	journal 	= {arXiv preprint arXiv:2108.05312},
-  	year		= {2021},
+@inproceedings{you2021iccv,
+ title = {Towards Interpretable Deep Networks for Monocular Depth Estimation},
+ author = {Zunzhi You and Yi-Hsuan Tsai and Wei-Chen Chiu and Guanbin Li},
+ booktitle = {International Conference on Computer Vision (ICCV)},
+ year = {2021}
 }
 ```
 
